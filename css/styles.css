@@ -826,7 +826,7 @@ font-family: "Roboto", sans-serif ;
         flex-direction: column;
     }
     .modal-field {
-        margin-bottom: 16px;
+        margin-bottom: 8px;
         display: flex;
         flex-direction: column;
         align-items: flex-start;
@@ -915,7 +915,7 @@ font-family: "Roboto", sans-serif ;
 }
 
 .modal-input:focus+.input-icon {
-    fill: #4D5AE5;
+    fill: #4D5AE5 !important;
 }
 .input-icon:focus {
     border-color: #4a6cf7;
