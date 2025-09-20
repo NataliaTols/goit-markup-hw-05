@@ -826,7 +826,7 @@ font-family: "Roboto", sans-serif ;
         flex-direction: column;
     }
     .modal-field {
-        margin-bottom: 16px;
+        margin-bottom: 8px;
         display: flex;
         flex-direction: column;
         align-items: flex-start;
@@ -922,10 +922,7 @@ font-family: "Roboto", sans-serif ;
     border-color: #4D5AE5;
 }
 
-.modal-field textarea {
-        display: block;
-        box-sizing: border-box;
-    }
+
 .modal-check-label {
     font-size: 12px;
     line-height: 1.17;
@@ -947,7 +944,6 @@ font-family: "Roboto", sans-serif ;
 
 .visually-hidden {
    margin-right: 8px;
-   display: inline;
    align-items: flex-start;
    position: absolute;
    width: 1px;
