@@ -984,7 +984,6 @@ font-family: "Roboto", sans-serif ;
     text-decoration: underline;
 }
 .modal-field-checkbox{
-    display: flex;
     align-items: flex-start;
     margin-bottom: 24px;
 }
