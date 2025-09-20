@@ -849,9 +849,6 @@ font-family: "Roboto", sans-serif ;
         border-color: #4d5ae5;
     }
 
-    .modal-input:required {
-        border: 1px solid rgb(228, 71, 71);
-    }
 
     .modal-input-label {
         font-weight: 400;
@@ -877,17 +874,6 @@ font-family: "Roboto", sans-serif ;
             box-sizing: border-box;
         }
 
-.modal-input,.modal-textarea {
-    max-width: 100%;
-    padding: 10px 12px;
-    border: 1px solid #ccc;
-    border-radius: 8px;
-    font-size: 14px;
-    transition: border 0.2s;
-    min-width: 360px;
-    
-
-}
 
 .modal-input:focus,
 .modal-textarea:focus {
