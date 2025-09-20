@@ -834,9 +834,9 @@ font-family: "Roboto", sans-serif ;
     }
     .modal-input {
         width: 100%;
+        border: 1px solid rgba(46, 47, 66, 0.4);
         height: 40px;
         background-color: transparent;
-        border: 1px solid rgba(46, 47, 66, 0.4);
         border-radius: 4px;
         padding-left: 38px;
         box-sizing: border-box;
